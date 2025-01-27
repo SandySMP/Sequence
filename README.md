@@ -6,15 +6,14 @@ A console based sequence memory game developed in C# and is based on the console
 1. The game will show you a sequence of numbers, one by one.
 2. After a short pause, you will need to enter the sequence in the same order.
 3. If you enter the correct sequence, the game will proceed to the next round, and one additional number will be added to the sequence.
-4. If you enter the wrong sequence, the game will display an "Incorrect" message and ask for the correct sequence again.
-5. The game continues indefinitely with the sequence getting longer after each round until you choose to stop playing.
+4. If you enter the wrong sequence, the game will display incorrect and ask for the correct sequence again.
 
 ## Checklist
-[x] Game stops if you fail the sequence  
-[x] Easier to add numbers  
-[ ] Customizable features such as sequence disappears faster  
-[ ] Nicer GUI  
-[ ] Players can choose if they want numbers above 10 in the sequence
+-[x] Game stops if you fail the sequence  
+-[x] Easier to add numbers  
+-[ ] Customizable features such as sequence disappears faster  
+-[ ] Nicer GUI  
+-[ ] Players can choose if they want numbers above 10 in the sequence
 
 
 ## How it looks like
